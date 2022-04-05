@@ -1,4 +1,4 @@
-# Gayathri_Krishnan
+# Digital Clock Verilog code
 A FSM based Verilog program for digital clock indicating hours,
 minutes and second with AM and PM.![image](https://user-images.githubusercontent.com/87304355/161518292-e959a093-5724-41fd-bd24-212a1c87727d.png)
 S0:
